@@ -30,6 +30,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" />
   <img alt="Git-LFS" src="https://img.shields.io/badge/Git%20LFS-F64935?logo=gitlfs&logoColor=fff&style=flat-square" />
   <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" />
+  <img alt="Latex" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   
 </p>
